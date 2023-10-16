@@ -1,2 +1,5 @@
 # Cryptography
-Collaboration between Hriday Thaker, Shrimun Agarwal and Rohan Mulik
+Collaboration between:-
+Hriday Thaker: Hill Cipher
+Rohan Mulik: filencryption,stringencryption
+Shrimun Agarwal: encryptionwithgui
